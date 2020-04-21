@@ -1,0 +1,15 @@
+*$
+******* Discrete Diode Electrical Parameters *******
+** Product: ES1G
+** Package: SMA(DO-214AC)
+** Fast Rectifiers
+****************************************************
+.MODEL ES1G D
++ IS=5.106e-9     N=2.0           RS=0.0628     
++ ISR=1.61e-8     NR=2.0          BV=480
++ IBV=1e-05       CJO=2.985e-11   VJ=0.58
++ M=0.52          TT=1.34e-07     XTI=3.0
++ EG=1.1          TBV1=0.001   
+****************************************************
+** Creation: Mar.-03-2015   Rev: 0.0
+** Fairchild Semiconductor

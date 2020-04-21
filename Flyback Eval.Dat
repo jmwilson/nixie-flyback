@@ -1,0 +1,32 @@
+﻿Field=#~Integer~#~50|Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~Flyback Eval.PrjPCB|ReportField=ProjectFullPath~C:\Users\james\Documents\FlyNixie\Flyback Eval.PrjPCB|ReportField=Title~Bill of Materials For Project [Flyback Eval.PrjPCB] (No PCB Document Selected)|ReportField=ReportTime~17:11:28|ReportField=ReportDate~4/18/2020|ReportField=ReportDateTime~4/18/2020 17:11:28|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=TotalQuantity~39|ReportField=TotalActualPrice~0|ReportField=TotalTargetPrice~0|ReportField=VersionControl_RevNumber~|ReportField=VersionControl_ProjFolderRevNumber~|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~4/18/2020|ReportField=CurrentTime~17:09:50|ReportField=Date~|ReportField=DocumentFullPathAndName~C:\Users\james\Documents\FlyNixie\Plumbing.SchDoc|ReportField=DocumentName~Plumbing.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~4/5/2020|ReportField=Organization~|ReportField=ProjectName~Flyback Eval.PrjPCB|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~Flyback Eval.PrjPCB|ReportField=DataSourceFullPath~C:\Users\james\Documents\FlyNixie\Flyback Eval.PrjPCB|ReportField=PCBConfigurationName~Sources|ReportField=Item~|ReportField=ItemRevision~|ReportField=ItemAndRevision~|ReportField=ItemRevisionBase~|ReportField=ItemRevisionLevel1~|ReportField=ItemRevisionLevel2~|ReportField=ItemRevisionLevel1AndBase~|ReportField=ItemRevisionLevel2AndLevel1~
+1|25 Vdc, 47 uF|WCAP-PTG5 Aluminum Polymer Capacitors, 8x8mm, 25 Vdc, 47 uF|C1, C2|WCAP-PTG5_8x8x3.5|870025574002|2
+2|10u|CAP CER 10UF 50V X7R 1210|C3, C4, C5|CAPC1210(3225)280_N|CL32B106KBJNNWE|3
+3|18n|Cap Ceramic 0.018uF 100V X7R 10% SMD 0805 125C Paper T/R|C6|CAPC0805(2012)100_N|CC0805KRX7R0BB183|1
+4|10n|CAP CER 10000PF 250V C0GNP0 1206|C7|CAPC1206(3216)170_M|C3216C0G2E103J115AE|1
+5|220n|Film Capacitors 250V .22uF 10% PCM10|C8, C9|WIMA 6x12x13|MKP4F032203G00KSSD|2
+6|100n|Cap Ceramic 0.1uF 50V X7R 5% SMD 0603 125C Paper T/R|C10|CAPC0603(1608)100_N|CC0603JRX7R9BB104|1
+7|4.7n|CAP CER 4700PF 50V C0G/NP0 0603|C11|CAPC0603(1608)100_N|GRM1885C1H472JA01D|1
+8|68n|CAPACITOR CERAMIC 0.068UF 25V, X7R, 10%, 0603|C12|CAPC0603(1608)100_M|CC0603KRX7R8BB683|1
+9|22n|YAGEO   CC0603KRX7R9BB223   CERAMIC CAPACITOR 0.022UF 50V, X7R, 10%, 0603, FULL REEL|C13|CAPC0603(1608)100_N|CC0603KRX7R9BB223|1
+10|1.8n|MURATA 1800 pF, 50 V,  5%, C0G / NP0|C14|CAPC0603(1608)100_M|GRM1885C1H182JA01D|1
+11|1u|CAP CER 1UF 16V X7R 0603|C15|CAPC0603(1608)100_L|CL10B105MO8NNWC|1
+12|1000u|CAP ALUM 1000UF 20% 10V RADIAL|C16|5x10x12.5mm can|UVR1A102MPD|1
+13|ES1G|ON SEMICONDUCTOR - ES1G - DIODE, FAST RECOVERY, 1A, 400V, DO-214AC|D1|SMA DO-214AC|ES1G|1
+14|1N4150|DIODE GEN PURP 50V 200MA SOD123|D2|SOD123|1N4150W-E3-08|1
+15|575-8|Keystone PCB banana jack|J1, J2, J3, J4|575-8|575-8|4
+16|BSC059N04LS6|MOSFET N-CH 40V 59A|Q1|PG-TDSON-8|BSC059N04LS6ATMA1|1
+17|5.1k|RES SMD 5.1K OHM 5% 1/2W 1210|R1|RESC1210(3225)_M|ERJ-14YJ512U|1
+18|0|RES SMD 0 OHM JUMPER 1/10W 0603|R2|RESC0603(1608)_M|RC0603FR-070RL|1
+19|18.7k|RC Series 0603 0.1 W 18.7 kOhms 1% ±100 ppm/°C SMT Thick Film Chip Resistor|R3|RESC0603(1608)_N|RC0603FR-0718K7L|1
+20|1.69M|Res Thick Film 0603 1.69M Ohm 1% 1/10W 100ppm/C Molded SMD Paper T/R|R4|RESC0603(1608)_N|RC0603FR-071M69L|1
+21|10k|RES SMD 10K OHM 1% 1/10W 0603|R5, R12|RESC0603(1608)_N|RC0603FR-0710KL|2
+22|20|RES SMD 20 OHM 1% 1/10W 0603|R6|RESC0603(1608)_N|RC0603FR-0720RL|1
+23|8.66k|Res Thick Film 0603 8.66K Ohm 1% 0.1W(1/10W) ±100ppm/C Epoxy Pad SMD T/R|R7|RESC0603(1608)_N|RC0603FR-078K66L|1
+24|62k|RES SMD 62K OHM 1% 1/10W 0603|R8|RESC0603(1608)_N|RC0603FR-0762KL|1
+25|1.5k|Res Thick Film 0603 1.5K Ohm 1% 0.1W(1/10W) ±100ppm/C Epoxy Pad SMD T/R|R9|RESC0603(1608)_M|RC0603FR-071K5L|1
+26|1k|RES SMD 1K OHM 1% 1/10W 0603|R10|RESC0603(1608)_M|RC0603FR-071KL|1
+27|18m|RES 0.018 OHM 1% 3/4W 1206|R11|RESC1206(3216)_N|KRL1632E-M-R018-F-T5|1
+28|10|RES SMD 10 OHM 1% 1/10W 0603|R13|RESC0603(1608)_N|RC0603FR-0710RL|1
+29|24k|RES SMD 24K OHM 1% 1/10W 0603|R14|RESC0603(1608)_N|RC0603FR-0724KL|1
+30|DA2032-AL|COILCRAFT - DA2032-ALD - TRANSFORMATOR, FLYBACK, LT3750, SMD|T1|DA2032-AL|DA2032-ALD|1
+31|LM5155|2.2MHz wide VIN non-synchronous boost controller 12-WSON -40 to 125|U1|WSON-12|LM5155DSSR|1
