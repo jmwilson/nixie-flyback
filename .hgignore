@@ -1,6 +1,8 @@
 syntax: glob
 
 History
-__Previews
+**/__Previews
 Project Logs*
 Project Outputs*
+sim/*autosave*
+debug.log

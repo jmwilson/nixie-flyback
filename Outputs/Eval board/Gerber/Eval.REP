@@ -2,29 +2,10 @@
 FileName = Eval.GBR
 AutoAperture = True
 *************************************************************
-Generating : Bottom Solder
-      File : Eval.GBS
+Generating : Bottom Paste
+      File : Eval.GBP
 
-    Adding Layer      : Bottom Solder
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D53
-    D55
-    D56
-    D57
-    D58
-    D59
-    D73
-*************************************************************
-
-*************************************************************
-Generating : Bottom Layer
-      File : Eval.GBL
+    Adding Layer      : Bottom Paste
 
     Adding Layer      : Bottom Layer
 
@@ -32,29 +13,6 @@ Generating : Bottom Layer
 
 
 Used DCodes :
-    D10
-    D14
-    D62
-    D64
-    D66
-    D67
-    D68
-    D69
-    D70
-    D71
-    D72
-*************************************************************
-
-*************************************************************
-Generating : Bottom Overlay
-      File : Eval.GBO
-
-    Adding Layer      : Bottom Overlay
-
-
-Used DCodes :
-    D12
-    D74
 *************************************************************
 
 *************************************************************
@@ -97,17 +55,6 @@ Used DCodes :
     D69
     D70
     D71
-*************************************************************
-
-*************************************************************
-Generating : Outline
-      File : Eval.GM1
-
-    Adding Layer      : Outline
-
-
-Used DCodes :
-    D14
 *************************************************************
 
 *************************************************************
@@ -167,10 +114,21 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Bottom Paste
-      File : Eval.GBP
+Generating : Outline
+      File : Eval.GM1
 
-    Adding Layer      : Bottom Paste
+    Adding Layer      : Outline
+
+
+Used DCodes :
+    D14
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : Eval.GBS
+
+    Adding Layer      : Bottom Solder
 
     Adding Layer      : Bottom Layer
 
@@ -178,6 +136,46 @@ Generating : Bottom Paste
 
 
 Used DCodes :
+    D55
+    D56
+    D57
+    D58
+    D59
+    D73
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : Eval.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D14
+    D63
+    D66
+    D67
+    D68
+    D69
+    D70
+    D71
+    D72
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : Eval.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D12
+    D74
 *************************************************************
 
 *************************************************************
