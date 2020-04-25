@@ -89,7 +89,7 @@ phase_f_c_u = numpy.angle(T_u_f_c, deg=True)
 required_phase_adj = (p_m - 180.) - phase_f_c_u
 f_z = f_c * math.exp(math.pi/2 * required_phase_adj/45)
 C_c1_0 = 1/(2 * math.pi * f_z * R_c_0)
-C_c2_0 = C_c1_0/100
+C_c2_0 = 1/(-wz * R_c_0)
 
 def par(*args):
     return 1/sum(map(lambda x: 1/x, args))
@@ -114,6 +114,7 @@ def loop_system(x, f, margin):
 
 print("Type II OTA compensator")
 
+print(f"Initial estimate: R_c_0 = {R_c_0:.2g} Ω, C_c1_0 = {C_c1_0:.2g} F, C_c2_0: {C_c2_0:.2g} F")
 print(
     f"Compensation network for crossover at {f_c:g} Hz with {p_m:g}°"
     f" phase margin: R_c = {R_c:g} Ω, C_c1 = {C_c1:g} F, C_c2 = {C_c2:g} F"
