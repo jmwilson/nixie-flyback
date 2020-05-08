@@ -8,3 +8,4 @@ sim/*autosave*
 debug.log
 *.orig
 __pycache__
+.vscode

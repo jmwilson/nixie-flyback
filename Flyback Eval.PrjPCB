@@ -28,7 +28,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=
+OutputPath=Project Outputs for Flyback Eval
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -106,7 +106,75 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [GeneratedDocument1]
+DocumentPath=Outputs\Eval board\BOM\Bill of Materials-Flyback Eval.xlsx
+DItemRevisionGUID=
+
+[GeneratedDocument2]
 DocumentPath=Project Outputs for Flyback Eval\Design Rule Check - Eval.html
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Outputs\Eval board\NC Drill\Eval.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Outputs\Eval board\Gerber\Eval.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Outputs\Eval board\Gerber\Eval.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Outputs\Eval board\Gerber\Eval.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Outputs\Eval board\Gerber\Eval.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Outputs\Eval board\Gerber\Eval.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Outputs\Eval board\Gerber\Eval.GM1
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Outputs\Eval board\Gerber\Eval.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Outputs\Eval board\Gerber\Eval.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Outputs\Eval board\Gerber\Eval.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Outputs\Eval board\Gerber\Eval.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Outputs\Eval board\NC Drill\Eval.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Outputs\Eval board\Gerber\Eval.REP
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Outputs\Eval board\Gerber\Eval.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Outputs\Eval board\ExportSTEP\Eval.step
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=Outputs\Eval board\NC Drill\Eval.TXT
 DItemRevisionGUID=
 
 [Configuration1]
@@ -156,7 +224,7 @@ SCH_HasExpandLogicalToPhysicalSheets=-1
 SaveSettingsToOutJob=0
 
 [Generic_EDE]
-OutputDir=
+OutputDir=Project Outputs for Flyback Eval
 
 [OutputGroup1]
 Name=Netlist Outputs
